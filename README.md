@@ -33,11 +33,6 @@ As you eat more apples:
 - **CSS**  
 - **JavaScript**  
 
----
-
-## 💡 Acknowledgements  
-
-This game was inspired by the classic Snake game popular in the late 1990s. A big thanks to the original developers for providing the inspiration for this project!  
 
 ---
 
